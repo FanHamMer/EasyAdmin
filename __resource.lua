@@ -10,6 +10,7 @@ server_scripts {
 	"language/fr.json",
 	"language/sv.json",
 	"language/it.json",
+	"language/ru.json",
 }
 
 client_scripts {
